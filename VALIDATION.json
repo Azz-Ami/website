@@ -1,0 +1,23 @@
+{
+  "result": "passed",
+  "checks": [
+    "HTML nesting, single H1 and unique IDs",
+    "Local links, assets and fragment targets",
+    "Bilingual labels and ARIA references",
+    "Five selectors and five corresponding project panels",
+    "Original project and career content preserved",
+    "Original external portfolio/contact links preserved",
+    "Original CV checksum unchanged",
+    "SVG XML validity",
+    "JavaScript syntax",
+    "CSS structural balance and reduced-motion/fallback rules"
+  ],
+  "initial_bytes": 173898,
+  "gzip_estimate_bytes": 54786,
+  "verification_limits": [
+    "No browser rendering, browser interaction or real-device touch tests were available.",
+    "No Lighthouse/Core Web Vitals score was measured.",
+    "External links are preserved, not checked for availability.",
+    "Gzip size is an estimate; hosting determines transfer compression."
+  ]
+}
